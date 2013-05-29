@@ -7,7 +7,7 @@ This will be a Firmware for the PIC18f2550 (for the moment) that will act as a b
 communicate with USB.
 
 
-writen on Assembly and ANSI C, compiled with SDCC and GPUTILS
+writen on Assembly and ANSI C, compiled with SDCC and GPUTILS.
 
 Toolchain:
 
